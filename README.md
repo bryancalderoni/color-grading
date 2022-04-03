@@ -4,4 +4,4 @@ Link al progetto completo: https://color-grading-tutorial.netlify.app/
 
 #### Link Esterni
 
-Link all Api **value.js** : https://noeldelgado.github.io/values.js/
+Link Api **value.js** : https://noeldelgado.github.io/values.js/
